@@ -27,8 +27,9 @@ const Hero = () => {
                         Dynamic portfolio created with Next.js
                     </h2>
                     <TextGenerateEffect 
+                        words='Turning ideas from my imagination to innovation'
                         className='text-center text-[40px] md:text-5xl lg:text-6xl'
-                        words='Turning ideas from my imagination to innovation'/>
+                        />
                         <p className='text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl'>
                             Hi, I&apos;m Linda, an aspiring software engineer based in Poughkeepsie! 
                         </p>
